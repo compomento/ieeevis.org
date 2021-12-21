@@ -129,7 +129,7 @@ permalink: /info/committees/conference-committee
 | Keke Wu | *University of Colorado Boulder* |
 |---
 | **Publicity Chairs** | |
-| Mennatallah El-Assady | *University of Konstanz* |
+| Mennatallah El-Assady | *ETH AI Center* |
 | John Alexis Guerra Gómez | *Assistant Teaching Professor Northeastern University Silicon Valley* |
 | Alvitta Ottley | *Washington University in St. Louis* |
 |---
